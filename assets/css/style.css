@@ -4,14 +4,9 @@ body{
 header img{
     height: 250px;
    border-radius: 100%;
-   padding-right: 20px;
 }
-header{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    padding: 30px;
-    text-align: center;
+.portada{
+    padding: 25px;
 }
 .detalle{
     padding: 20px;
